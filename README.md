@@ -5,8 +5,10 @@ _Actuellement en reconversion vers la cybersécurité_
  **92220 Bagneux, France**  
  **benhrizsiwara@gmail.com**  
  **+33 7 53 49 57 87**  
-🔗 [GitHub](https://github.com/benhrizsiwar) | 
+ [GitHub](https://github.com/benhrizsiwar) | 
 ![Photo de profil](https://github.com/benhrizsiwar/CV-siwar/blob/main/mon%20image.png)
+
+
 ##**PRESENTATION**
 _Je suis une professionnelle dynamique et polyvalente, diplômée en ingénierie chimique, avec une solide formation en chimie, physique, biologie et informatique. Mon parcours académique me permet d’adopter une perspective multidisciplinaire, ce qui m'aide à résoudre des problèmes complexes avec créativité et précision._
 ## **FORMATION**
