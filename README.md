@@ -34,9 +34,9 @@ _Traitement des eaux usées en utilisation l'irradiation par rayonnements ioniss
 **Laboratoire de dessalement des eaux de mer**
 _Minéralisation des eaux de mer en utilisant l'osmose inverse_
 _Purification des eaux de traitement 
-## **Centres d’intérêt**
+## **CENTRES D'INTERET**
 - **Cuisine** : _Passionnée par la création de plats du monde et de recettes tunisiennes_  
 - **Sport** : _Fitness et maintien d’un mode de vie actif_ 
-- **Lecture** : _Découverte des romans scientifiques et fictifs .  
-- **Voyage** : -Explorer le monde
+- **Lecture** : _Découverte des romans scientifiques et fictifs_  
+- **Voyage** : _Explorer le monde_
   
