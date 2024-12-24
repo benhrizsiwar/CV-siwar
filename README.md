@@ -1,5 +1,7 @@
 # CV-siwar
-# <p style="text-align: center; font-size: 40px; <font color="#4CAF50"></font>Siwar ben hriz</p><img src="https://github.com/benhrizsiwar/CV-siwar/blob/main/mon%20image.png" alt="Photo de profil" width="150" style="float: left; margin-right: 15px;"> 
+# <p style="text-align: center; font-size: 40px; color: #4CAF50;">Siwar BEN HRIZ</p># <img src="https://github.com/benhrizsiwar/CV-siwar/blob/main/mon%20image.png" alt="Photo de profil" width="150" style="float: left; margin-right: 15px;">
+
+
 **Ingénieure en chimie analytique et instrumentation**  
 _Actuellement en reconversion vers la cybersécurité_  
  **92220 Bagneux, France**  
