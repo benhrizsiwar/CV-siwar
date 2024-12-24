@@ -25,7 +25,7 @@ _Spécialisation en analyse chimique et gestion des instruments de mesure_
 **Lycée jeunes filles de Nabeul, Tunisie**
 _Faire acquérir de solides bases scientifiques_
 _Développer l'appétence pour les sciences et comprendre l'evolution du monde_
-## **EXPRESSION PROFESSIONNELE**
+## **EXPERIENCE PROFESSIONNELE**
 ### **INGENIEUR CHERCHEUR** _(2021)_
 **Centre national des études nucléaires**
 _Développement de méthodes d’analyse pour échantillons industriels en utilisant la chromatographie et la spectrométrie_
