@@ -30,7 +30,7 @@ _Développer l'appétence pour les sciences et comprendre l'evolution du monde_
 **Centre national des études nucléaires**
 _Développement de méthodes d’analyse pour échantillons industriels en utilisant la chromatographie et la spectrométrie_
 _Traitement des eaux usées en utilisation l'irradiation par rayonnements ionissants gamma_
-### **RESPONSABLE CONTROLE QUALITE**_(2022)_
+### **RESPONSABLE CONTROLE QUALITE** _(2022)_
 **Laboratoire de dessalement des eaux de mer**
 _Minéralisation des eaux de mer en utilisant l'osmose inverse_
 _Purification des eaux de traitement 
