@@ -1,5 +1,5 @@
 # CV-siwar
-# <img src="https://github.com/siwar/photo-profile.jpg" alt="Photo de profil" width="150" style="float: left; margin-right: 15px;"> Siwar
+# <img src="https://github.com/benhrizsiwar/CV-siwar/blob/main/mon%20image.png" alt="Photo de profil" width="150" style="float: left; margin-right: 15px;"> Siwar
 
 **Ingénieure en chimie analytique et instrumentation**  
 _Actuellement en reconversion vers la cybersécurité_  
@@ -7,7 +7,6 @@ _Actuellement en reconversion vers la cybersécurité_
  **benhrizsiwara@gmail.com**  
  **+33 7 53 49 57 87**  
  [GitHub](https://github.com/benhrizsiwar) | 
-![Photo de profil](https://github.com/benhrizsiwar/CV-siwar/blob/main/mon%20image.png)
 
 
 ##**PRESENTATION**
