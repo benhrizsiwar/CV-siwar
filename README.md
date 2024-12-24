@@ -1,5 +1,5 @@
 # CV-siwar
-# <img src="https://github.com/benhrizsiwar/CV-siwar/blob/main/mon%20image.png" alt="Photo de profil" width="150" style="float: left; margin-right: 15px;"> Siwar
+# <img src="https://github.com/benhrizsiwar/CV-siwar/blob/main/mon%20image.png" alt="Photo de profil" width="150" style="float: left; margin-right: 15px;"> <p style="text-align: center; font-size: 40px; color: #4CAF50;">Siwar ben hriz</p>
 
 **Ingénieure en chimie analytique et instrumentation**  
 _Actuellement en reconversion vers la cybersécurité_  
@@ -9,7 +9,7 @@ _Actuellement en reconversion vers la cybersécurité_
  [GitHub](https://github.com/benhrizsiwar) | 
 
 
-##**PRESENTATION**
+## **PRESENTATION**
 _Je suis une professionnelle dynamique et polyvalente, diplômée en ingénierie chimique, avec une solide formation en chimie, physique, biologie et informatique. Mon parcours académique me permet d’adopter une perspective multidisciplinaire, ce qui m'aide à résoudre des problèmes complexes avec créativité et précision._
 ## **FORMATION**
 ### **Formation en administration de réseaux, systèmes et infrastructures virtualisées** _(2024 - En cours)_  
