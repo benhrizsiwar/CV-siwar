@@ -1,4 +1,5 @@
 # CV-siwar
+# <img src="https://github.com/siwar/photo-profile.jpg" alt="Photo de profil" width="150" style="float: left; margin-right: 15px;"> Siwar
 
 **Ingénieure en chimie analytique et instrumentation**  
 _Actuellement en reconversion vers la cybersécurité_  
